@@ -1,0 +1,35 @@
+{
+	"name": "astro-networks",
+	"version": "0.0.1",
+	"type": "module",
+	"description": "🚠",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NikolaRHristov/astro-networks.git"
+	},
+	"homepage": "https://github.com/NikolaRHristov/astro-networks#readme",
+	"bugs": {
+		"url": "https://github.com/NikolaRHristov/astro-networks/issues"
+	},
+	"author": {
+		"email": "nikola@lightrix.dev",
+		"name": "Nikola Hristov",
+		"url": "https://nikolahristov.tech"
+	},
+	"license": "MIT",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"keywords": [
+		"astro-integration",
+		"astro-component",
+		"astro"
+	],
+	"scripts": {
+		"build": "nikola build src/index.ts"
+	},
+	"devDependencies": {
+		"@nikolarhristov/config": "0.0.1",
+		"@nikolarhristov/scripts": "0.0.1",
+		"astro": "1.2.1"
+	}
+}
