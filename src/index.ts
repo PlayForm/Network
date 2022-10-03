@@ -1,8 +1,8 @@
 import type { AstroIntegration } from "astro";
 
-export default (): AstroIntegration => ({
+export default {
 	"name": "astro-networks",
 	"hooks": {
 		"astro:config:setup": () => {},
 	},
-});
+} satisfies AstroIntegration;
