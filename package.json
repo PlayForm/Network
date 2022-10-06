@@ -5,13 +5,13 @@
 	"description": "🚠",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nikolarhristov/astro-networks.git"
+		"url": "https://github.com/nikolaxhristov/astro-networks.git"
 	},
-	"homepage": "https://github.com/nikolarhristov/astro-networks#readme",
+	"homepage": "https://github.com/nikolaxhristov/astro-networks#readme",
 	"bugs": {
-		"url": "https://github.com/nikolarhristov/astro-networks/issues"
+		"url": "https://github.com/nikolaxhristov/astro-networks/issues"
 	},
-	"author": "Nikola Hristov <nikola@nikolahristov.tech>",
+	"author": "nikolaxhristov",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
@@ -26,6 +26,6 @@
 	"devDependencies": {
 		"@lightrix/config": "0.0.2",
 		"@lightrix/scripts": "0.0.2",
-		"astro": "1.4.4"
+		"astro": "1.4.5"
 	}
 }
