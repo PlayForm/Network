@@ -1,2 +1,1 @@
-var t=()=>({name:"astro-networks",hooks:{"astro:config:setup":()=>{}}});export { t as default };
-
+var t=()=>({name:"astro-networks",hooks:{"astro:config:setup":()=>{}}});export{t as default};
