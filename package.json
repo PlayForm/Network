@@ -29,7 +29,6 @@
 		"astro": "2.3.0"
 	},
 	"publishConfig": {
-		"provenance": true,
 		"access": "public"
 	}
 }
