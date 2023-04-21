@@ -21,7 +21,7 @@
 		"astro"
 	],
 	"scripts": {
-		"build": "lightrix build src/*.ts src/*/*.ts"
+		"build": "lightrix build 'src/**/*.ts'"
 	},
 	"devDependencies": {
 		"@lightrix/config": "0.0.9",
