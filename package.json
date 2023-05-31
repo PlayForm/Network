@@ -5,11 +5,11 @@
 	"description": "🚠",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/NicholasJoyChrist/astro-networks.git"
+		"url": "https://github.com/NikolaRHristov/astro-networks.git"
 	},
-	"homepage": "https://github.com/NicholasJoyChrist/astro-networks#readme",
+	"homepage": "https://github.com/NikolaRHristov/astro-networks#readme",
 	"bugs": {
-		"url": "https://github.com/NicholasJoyChrist/astro-networks/issues"
+		"url": "https://github.com/NikolaRHristov/astro-networks/issues"
 	},
 	"license": "MIT",
 	"private": false,
