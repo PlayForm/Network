@@ -1,34 +1,34 @@
 {
-	"bugs": {
-		"url": "https://github.com/NikolaRHristov/astro-networks/issues"
-	},
+	"name": "astro-networks",
+	"version": "0.0.1-alpha.0",
+	"private": false,
 	"description": "🚠",
-	"devDependencies": {
-		"@lightrix/config": "0.0.11",
-		"@lightrix/scripts": "1.0.6",
-		"astro": "2.8.2"
-	},
-	"homepage": "https://github.com/NikolaRHristov/astro-networks#readme",
 	"keywords": [
 		"astro-integration",
 		"astro-component",
 		"astro"
 	],
-	"license": "MIT",
-	"main": "./dist/index.js",
-	"name": "astro-networks",
-	"private": false,
-	"publishConfig": {
-		"access": "public"
+	"homepage": "https://github.com/NikolaRHristov/astro-networks#readme",
+	"bugs": {
+		"url": "https://github.com/NikolaRHristov/astro-networks/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/NikolaRHristov/astro-networks.git"
 	},
+	"license": "MIT",
+	"type": "module",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
 	"scripts": {
 		"prepublishOnly": "lightrix build 'src/**/*.ts'"
 	},
-	"type": "module",
-	"types": "./dist/index.d.ts",
-	"version": "0.0.1-alpha.0"
+	"devDependencies": {
+		"@lightrix/config": "0.0.11",
+		"@lightrix/scripts": "1.0.6",
+		"astro": "2.8.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
