@@ -1,6 +1,6 @@
 {
 	"name": "astro-networks",
-	"version": "0.0.1-alpha.0",
+	"version": "0.0.1",
 	"private": false,
 	"description": "🚠",
 	"keywords": [
@@ -21,7 +21,7 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"scripts": {
-		"prepublishOnly": "lightrix build 'Source/**/*.ts'"
+		"prepublishOnly": "Lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
 		"@lightrix/configuration": "0.0.1",
