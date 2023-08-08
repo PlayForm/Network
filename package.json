@@ -1,6 +1,6 @@
 {
 	"name": "astro-networks",
-	"version": "0.0.1",
+	"version": "2.0.0",
 	"private": false,
 	"description": "🚠",
 	"keywords": [
@@ -26,7 +26,7 @@
 	"devDependencies": {
 		"@lightrix/configuration": "0.0.1",
 		"@lightrix/script": "0.0.1",
-		"astro": "2.10.1"
+		"astro": "2.10.3"
 	},
 	"publishConfig": {
 		"access": "public"
