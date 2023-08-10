@@ -16,7 +16,6 @@
 		"type": "git",
 		"url": "git+https://github.com/NikolaRHristov/astro-networks.git"
 	},
-	"license": "MIT",
 	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
@@ -24,9 +23,7 @@
 		"prepublishOnly": "Lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"@lightrix/configuration": "0.0.1",
-		"@lightrix/script": "0.0.1",
-		"astro": "2.10.4"
+		"astro": "2.10.5"
 	},
 	"publishConfig": {
 		"access": "public"
