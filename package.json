@@ -23,7 +23,7 @@
 		"prepublishOnly": "Lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"astro": "2.10.5"
+		"astro": "2.10.9"
 	},
 	"publishConfig": {
 		"access": "public"
