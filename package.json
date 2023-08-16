@@ -16,6 +16,7 @@
 		"type": "git",
 		"url": "git+https://github.com/NikolaRHristov/astro-networks.git"
 	},
+	"license": "MIT",
 	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
