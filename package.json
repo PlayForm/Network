@@ -29,7 +29,11 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
+<<<<<<< HEAD
 		"astro": "4.4.5",
+=======
+		"astro": "4.4.4",
+>>>>>>> 21933f67deafa251cb651fc2be03f9e3ac7816d0
 		"typescript-esbuild": "0.3.9"
 	},
 	"publishConfig": {
