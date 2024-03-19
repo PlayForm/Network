@@ -3,7 +3,12 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "🚠",
-	"keywords": ["astro-integration", "astro-component", "astro", "network"],
+	"keywords": [
+		"astro-integration",
+		"astro-component",
+		"astro",
+		"network"
+	],
 	"homepage": "https://github.com/Playform/AstroNetwork#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/AstroNetwork/issues"
@@ -22,10 +27,12 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"scripts": {
+		"Document": "TypeScriptDocument 'Source/**/*.ts'",
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
 		"astro": "4.5.5",
+		"typescript-document": "0.0.2",
 		"typescript-esbuild": "0.4.3"
 	},
 	"publishConfig": {
