@@ -1,6 +1,6 @@
 # [astro-network] 🚠
 
-[astro-network]: https://npmjs.org/astro-network
+[astro-network]: HTTPS://NPMJS.Org/astro-network
 
 ## Changelog
 
