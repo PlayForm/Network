@@ -1,6 +1,6 @@
-# [astro-network] 🚠
+# 🚠 [AstroNetwork]
 
-[astro-network]: https://npmjs.org/astro-network
+[AstroNetwork]: https://npmjs.org/astro-network
 
 ## Changelog
 
