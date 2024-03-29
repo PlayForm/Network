@@ -1,16 +1,16 @@
 {
-	"name": "astro-network",
+	"name": "network-astro",
 	"version": "0.0.1",
 	"private": false,
 	"description": "🚠",
 	"keywords": ["astro-integration", "astro-component", "astro", "network"],
-	"homepage": "https://github.com/Playform/AstroNetwork#readme",
+	"homepage": "https://github.com/Playform/NetworkAstro#readme",
 	"bugs": {
-		"url": "https://github.com/Playform/AstroNetwork/issues"
+		"url": "https://github.com/Playform/NetworkAstro/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/AstroNetwork.git"
+		"url": "git+https://github.com/Playform/NetworkAstro.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
