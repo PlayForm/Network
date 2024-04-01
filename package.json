@@ -3,7 +3,12 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "🚠",
-	"keywords": ["astro-integration", "astro-component", "astro", "network"],
+	"keywords": [
+		"astro-integration",
+		"astro-component",
+		"astro",
+		"network"
+	],
 	"homepage": "https://github.com/Playform/NetworkAstro#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/NetworkAstro/issues"
@@ -26,9 +31,11 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"typescript-document": "0.0.7",
-		"typescript-esbuild": "0.4.9",
-		"astro": "4.5.12"
+		"astro": "4.5.12",
+		"@playform/build": "0.0.1"
+	},
+	"optionalDependencies": {
+		"@playform/document": "0.0.2"
 	},
 	"publishConfig": {
 		"access": "public"
