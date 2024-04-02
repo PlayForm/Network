@@ -31,8 +31,8 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"astro": "4.5.13",
-		"@playform/build": "0.0.1"
+		"@playform/build": "0.0.1",
+		"astro": "4.5.13"
 	},
 	"optionalDependencies": {
 		"@playform/document": "0.0.2"
