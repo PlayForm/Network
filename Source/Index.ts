@@ -1,7 +1,7 @@
 import type { AstroIntegration } from "astro";
 
 export default (): AstroIntegration => ({
-	name: "network-astro",
+	name: "@playform/network",
 	hooks: {
 		"astro:config:setup": () => {},
 	},
