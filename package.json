@@ -31,8 +31,16 @@
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
+<<<<<<< HEAD
 		"@playform/build": "0.0.5",
 		"astro": "4.5.16"
+=======
+		"@playform/build": "0.0.2",
+		"astro": "4.5.16"
+	},
+	"optionalDependencies": {
+		"@playform/document": "0.0.6"
+>>>>>>> 94701f73e8b2ca36d2e895f14032ec9835e3733a
 	},
 	"publishConfig": {
 		"access": "public"
