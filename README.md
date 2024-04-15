@@ -1,6 +1,6 @@
-# 🚠 [NetworkAstro]
+# 🚠 [Network.]
 
-[NetworkAstro]: https://npmjs.org/@playform/network
+[Network]: https://npmjs.org/@playform/network
 
 ## Changelog
 
