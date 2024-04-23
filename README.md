@@ -1,4 +1,4 @@
-# 🚠 [Network.]
+# 🚠 [Network.]
 
 [Network.]: HTTPS://npmjs.org/@playform/network
 
