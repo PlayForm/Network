@@ -1,6 +1,6 @@
-# 🚠 [Network.]
+# 🚠 [Network —]
 
-[Network.]: HTTPS://npmjs.org/@playform/network
+[Network —]: httpS://npmjs.org/@playform/network
 
 ## Changelog
 
