@@ -2,7 +2,7 @@
 	"name": "@playform/network",
 	"version": "0.0.1",
 	"private": false,
-	"description": "🚠 Network —",
+	"description": "🚠 — Network —",
 	"keywords": [
 		"astro",
 		"astro-integration",
@@ -22,7 +22,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "⛲ Source ⁄ 🚪 Open —",
+		"name": "⛲ Source ⁄ 🚪 — Open —",
 		"email": "Source/Open@PlayForm.Cloud",
 		"url": "HTTPS://PlayForm.Cloud"
 	},
