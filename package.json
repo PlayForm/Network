@@ -34,7 +34,7 @@
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"dependencies": {
-		"astro": "4.15.4"
+		"astro": "4.15.6"
 	},
 	"devDependencies": {
 		"@playform/build": "0.1.6"
